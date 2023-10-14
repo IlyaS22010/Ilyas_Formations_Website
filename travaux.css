@@ -1,0 +1,30 @@
+
+nav.Menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none; 
+}
+
+nav.Menu-nav ul li.btn a{
+	color: #fff;
+	background-color: #F4534E;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 30px;
+	border: solid;
+	border-color: #F4534E;
+}
+
+nav.Menu-nav ul li.btn:hover a{
+	color: #F4534E;
+	background-color: #fff;
+	transition: 1.0s all;
+	border-color: #76B4F1;
+}
+
+
+header{
+	background-color: #4DF47E;
+}
+footer {
+	background-color: #76B4F1;
+}
